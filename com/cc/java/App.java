@@ -13,10 +13,10 @@ public class App {
         pollObj(drone);
 
         // Das sollte eigentlich nich möglich sein!!!
-        HoneyBee bee = new HoneyBee();
-        pollObj(bee);
-
-   
+        // HoneyBee bee = new HoneyBee();
+        // pollObj(bee);
+        // nach Umbaau zur abstracten class HoneyBee ght das
+        // auch nicht mher
     }
 
    // 2. Variante - Polymorphie
